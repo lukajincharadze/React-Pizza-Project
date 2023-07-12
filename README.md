@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Pizza React App
 
 first project using React!
